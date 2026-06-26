@@ -422,11 +422,7 @@ python predict.py
 
 ---
 
-# 👩‍💻 Authors
 
-Developed as a Final Year Artificial Intelligence and Computer Vision research project for automated IV therapy surveillance using deep learning and transfer learning techniques.
-
----
 
 # 📄 License
 
